@@ -3,6 +3,7 @@
     "start": "vite"
   },
   "dependencies": {
+    "feather": "^0.0.5",
     "vite": "^5.2.11"
   },
   "devDependencies": {
